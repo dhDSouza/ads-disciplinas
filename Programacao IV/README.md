@@ -1,3 +1,3 @@
 # Programação IV
 
-Primeira aula da disciplina de programação 4.
+Conteúdo das aulas da disciplina de programação 4.
